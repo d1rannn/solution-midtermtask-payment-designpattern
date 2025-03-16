@@ -1,5 +1,3 @@
-Here is your README.md file in Markdown format:
-
 # Online Payment Gateway
 
 ## Overview
