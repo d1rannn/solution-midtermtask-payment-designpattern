@@ -49,12 +49,16 @@ OnlinePaymentGateway/
 
 ## How to Run
 1. Compile all Java files using:
-   ```sh
+   ```
+   sh
    javac src/**/*.java
+   ```
 
 2. Run the application:
+```
+java src.Main
+```
 
-```java src.Main
 
 
 
