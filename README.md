@@ -52,9 +52,9 @@ OnlinePaymentGateway/
    ```sh
    javac src/**/*.java
 
-	2.	Run the application:
+2. Run the application:
 
-java src.Main
+```java src.Main
 
 
 
